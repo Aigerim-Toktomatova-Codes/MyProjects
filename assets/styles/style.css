@@ -37,10 +37,9 @@ article {
 
 aside {
     background-color: rgb(210, 231, 166);
-    width: 30vw;
+    width: 32vw;
     height: 50vh;
     padding: 5px;
-    margin: 2px;
     float: right;
     display: flex;
     align-items: center;
@@ -51,7 +50,7 @@ section {
     width: 65vw;
     height: 50vh;
     padding: 5px;
-    margin: 2px;
+    margin-bottom: 3px;
     float: left;
 }
 
